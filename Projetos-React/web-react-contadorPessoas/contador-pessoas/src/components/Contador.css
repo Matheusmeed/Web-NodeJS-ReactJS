@@ -1,0 +1,35 @@
+h1 {
+    font-size: 4em;
+    color: white;
+}
+
+.container {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#number {
+    font-size: 6em;
+    margin-top: -20px;
+}
+
+button {
+    cursor: pointer;
+    font-size: 3em;
+    width: 200px;
+    height: 80px;
+    margin-bottom: 6px;
+    color: white;
+}
+
+#plus {
+     background-color: #00ff55;
+     border: 3px solid #006900;
+}
+
+#minus {
+    background-color: red;
+    border: 3px solid #690000;
+}
