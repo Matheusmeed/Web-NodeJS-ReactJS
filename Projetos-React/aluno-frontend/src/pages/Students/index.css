@@ -1,0 +1,8 @@
+.thead {
+    color: #00ff62;
+}
+
+.student-header {
+    display: flex;
+    justify-content: space-between;
+}
